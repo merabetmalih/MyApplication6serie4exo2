@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">My Application6  serie 4 exo 2</string>
+    <string name="app_name">My biblio</string>
+    <string name="hello_blank_fragment">details book</string>
+
+<string name="name">name</string>
+<string name="author">author</string>
+<string name="description">description</string>
+
+
+<string name="book1_description">etudiant 2 cs specialité sit 3 </string>
+
+<string name="book2_description">etudiante en 2 cs specialité sit</string>
+
+<string name="book3_description">un maitre de TDM developement mobile</string>
+
+
+    <string name="book1_author">Merabet Mohamed Malih</string>
+    <string name="book2_author">Merabet Mohamed Malih</string>
+    <string name="book3_author">Merabet Mohamed Malih</string>
+
+    <string name="book1_title">Mbook1</string>
+    <string name="book3_title">Mebook2h</string>
+    <string name="book2_title">Benzbook3 </string>
 </resources>
