@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "My Application6  serie 4 exo 2"
